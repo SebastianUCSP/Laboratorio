@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1541517861 source:d:\ccomp\practica laboratorio\src\gato.cpp
+	"Gato.h"
+
+1541517861 d:\ccomp\practica laboratorio\include\gato.h
+
+1541517851 source:d:\ccomp\practica laboratorio\src\loro.cpp
+	"Loro.h"
+
+1541517851 d:\ccomp\practica laboratorio\include\loro.h
+
+1541517839 source:d:\ccomp\practica laboratorio\src\perro.cpp
+	"Perro.h"
+
+1541517839 d:\ccomp\practica laboratorio\include\perro.h
+
